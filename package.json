@@ -1,0 +1,15 @@
+{
+  "name": "nodetaskapp",
+  "version": "1.0.0",
+  "description": "Node.js and MySQL app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "author": "Jussic",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "express": "^4.15.5"
+  }
+}
